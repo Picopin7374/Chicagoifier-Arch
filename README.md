@@ -25,11 +25,11 @@ Chicago95 is an AMAZING theme for XFCE, however its held back by its Terminal-he
 
 ### Step 1
 
-Download Chicagofier Arch from [Releases](https://github.com/dominichayesferen/Chicagofier/releases) (a 'Source Code' download).
+Download Chicagofier Arch from [Releases](https://github.com/Picopin7374/Chicagoifier-Arch/releases/tag/Release),
 
 ### Step 2
 
-Extract the downloaded file with your archive manager (right-click, Extract Here).
+Extract the downloaded file with your archive manager [PeaZIP is recommended] (right-click, Extract To).
 
 ### Step 3
 
