@@ -1,6 +1,6 @@
 # Chicagofier Arch
 
-Based off of https://github.com/dominichayesferen/Chicagofier. Be sure to check dominichayesferen out! 
+The Chicagoifier Script for Arch
 
 Chicago95 is an AMAZING theme for XFCE, however its held back by its Terminal-heavy installation procedure for getting the full transformation*. This script is a script that transforms an install of XFCE with very little user interaction required, making the whole transformation more noob-friendly to pull off. Additionally, it also includes some patches for the Chicago95 experience, and integrates Chicago95 Plus into the applications menu.
 
