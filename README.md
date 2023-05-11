@@ -1,6 +1,6 @@
 # Chicagofier Arch
 
-The Chicagoifier Script for Arch
+Based off of https://github.com/dominichayesferen/Chicagofier. Be sure to check dominichayesferen out! 
 
 Chicago95 is an AMAZING theme for XFCE, however its held back by its Terminal-heavy installation procedure for getting the full transformation*. This script is a script that transforms an install of XFCE with very little user interaction required, making the whole transformation more noob-friendly to pull off. Additionally, it also includes some patches for the Chicago95 experience, and integrates Chicago95 Plus into the applications menu.
 
@@ -14,6 +14,12 @@ Chicago95 is an AMAZING theme for XFCE, however its held back by its Terminal-he
 
 - Arch Linux
 - Being logged in as an administrator account (first user's an administrator)
+
+#### Notes
+
+- Firefox will be (with your permission) replaced with Epiphany during installation since Firefox looks bad/unfitting for one (especially in this theme) and two Epiphany fits better in this theme
+
+-----
 
 ## Installation
 
