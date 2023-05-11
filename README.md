@@ -15,12 +15,6 @@ Chicago95 is an AMAZING theme for XFCE, however its held back by its Terminal-he
 - Arch Linux
 - Being logged in as an administrator account (first user's an administrator)
 
-#### Notes
-
-- Firefox will be (with your permission) replaced with Epiphany during installation since Firefox looks bad/unfitting for one (especially in this theme) and two Epiphany fits better in this theme
-
------
-
 ## Installation
 
 ### Step 1
